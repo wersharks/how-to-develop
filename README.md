@@ -25,11 +25,17 @@ _The Index_
 - [11. Never stop learning](#index)
 - [12. Evaluate yourself (Extra)](#index)
 
+### 1. Why are you reading this?
+Soo...? Why exactly are you reading this almanac? Do you want something like x lakh package after reading this or think that at the end of reading everything you would be getting packages of y lakh/$/etc and would be living a luxurious life? Or do you think something of a Nodejs with a tint of django would be cool to flex your friends? Why exactly do you want to do development? Now if any of those motivatiors sounds similar to yours, dont worry I won't judge them but remember, all the hardwork will be your own, I won't be having honey fed spoof with which you would have learned everything and do development like its easy peasy! _Sorry it ain't that simple_
+
+**So remember folks, do your own hardwork, there's no shortcut to the path of devgod (the hypothetical being of development perfection)**
+
+and lastly, whatever it is.. for good or bad but _make up your mind for why do you want to jump into the world of development_, and tighten your seatbelt before jumping over next chapter, _because this, my friend, can turn out to be your first and last chapter read before dropping this almanac entirely and never touching upon it ever again!_
 
 ## Contributing
 
 How to contribute?
 
-Add each chapters to README.md of folders name, like for chapter indexed 7, with name copy pasta artist, you can make folder like _7.copy_pasta_artist_ and add README.md with content and any extra materials in it! :) Additionally change index hyperlinks and correctly linkup with main page!
+Just add to this README.md by creating sections and linking them up properly with index!
 
-Not adhereing to any of these might result in your prs being rejected. Also since this is non technical, opinionistic guide so there's nothing absolute and everything to be added is on sole discretion and principles of author. Have fun reading and contributing!
+Not adhereing to any of these might result in your prs being rejected. Also since this is non technical, opinionistic guide so there's nothing absolute and everything to be added is on sole discretion and principles of section creators. Have fun reading and contributing!
